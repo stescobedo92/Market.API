@@ -5,7 +5,6 @@ using Market.API.Domain.Models;
 using Market.API.Domain.Services;
 using Market.API.Resources;
 using Microsoft.AspNetCore.Mvc;
-using Resources;
 
 namespace Market.API.Controllers
 {
