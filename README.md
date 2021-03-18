@@ -2,7 +2,7 @@
 Simple RESTful API built with NET 6 to show how to create RESTful services using a decoupled, maintainable architecture.
 
 ## Frameworks and Libraries
-- [ASP.NET Core 2.2](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-2.2);
+- [ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0);
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) (for data access);
 - [Entity Framework In-Memory Provider](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/in-memory) (for testing purposes);
 - [AutoMapper](https://automapper.org/) (for mapping resources and models);
