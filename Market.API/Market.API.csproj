@@ -9,7 +9,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Domain" />
       <Folder Include="Extensions" />
       <Folder Include="Infrastructure" />
       <Folder Include="Mapping" />
