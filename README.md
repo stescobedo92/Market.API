@@ -1,5 +1,5 @@
 # Market.API
-Simple RESTful API built with Net6 to show how to create RESTful services using a decoupled, maintainable architecture.
+Simple RESTful API built with NET 6 to show how to create RESTful services using a decoupled, maintainable architecture.
 
 ## Frameworks and Libraries
 - [ASP.NET Core 2.2](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-2.2);
@@ -10,7 +10,7 @@ Simple RESTful API built with Net6 to show how to create RESTful services using 
 
 ## How to Test
 
-First, install [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0). Then, open the terminal or command prompt at the API root path (```/Market.API/```) and run the following commands, in sequence:
+First, install [NET 6](https://dotnet.microsoft.com/download/dotnet/6.0). Then, open the terminal or command prompt at the API root path (```/Market.API/```) and run the following commands, in sequence:
 
 ```
 dotnet restore
