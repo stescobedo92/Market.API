@@ -16,5 +16,4 @@ namespace Market.API.Mapping
             CreateMap<ProductsQueryResource, ProductsQuery>();
         }
     }
-    }
 }
